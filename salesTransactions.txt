@@ -1,0 +1,168 @@
+
+----------------------------------------------
+2022-04-13 06:16:44-PM Julian  
+ Drinks: [Drink{name='Hot coco', size='small', ounces=8.0, addedCream=true, addedFlavor='null', cost=4.0}] 
+ Snacks: [Snack{name='peanuts', description='other snack', cost=1.5}] 
+ Payment Method: null AmountPaid=5.885
+----------------------------------------------
+
+On 2022-04-13 06:18:22-PM, the FIU Starbucks store has sold $05.88
+
+----------------------------------------------
+2022-04-13 06:31:30-PM Julian  
+ Drinks: [Drink{name='coco', size='medium', ounces=12.5, addedCream=true, addedFlavor='chocolate', cost=7.2}] 
+ Snacks: [Snack{name='beagel', description='other snack', cost=1.5}, Snack{name='chips', description='other snack', cost=1.5}] 
+ Payment Method: null AmountPaid=10.914
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-13 06:32:20-PM Jake  
+ Drinks: [Drink{name='water', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Payment Method: null AmountPaid=2.675
+----------------------------------------------
+
+On 2022-04-13 06:32:54-PM, the FIU Starbucks store has sold $13.59
+
+----------------------------------------------
+2022-04-15 10:59:18-AM J  
+ Drinks: [Drink{name='coffee', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='Pretzel', description='other snack', cost=1.5}] 
+ Payment Method: null AmountPaid=4.28
+----------------------------------------------
+
+On 2022-04-15 10:59:58-AM, the FIU Starbucks store has sold $04.28
+On 2022-04-15 04:49:38-PM, the FIU Starbucks store has sold $00.00
+
+----------------------------------------------
+2022-04-15 04:49:56-PM J  
+ Payment Method: null AmountPaid=0.0
+----------------------------------------------
+
+On 2022-04-15 04:51:39-PM, the FIU Starbucks store has sold $00.00
+
+----------------------------------------------
+2022-04-15 04:51:55-PM J  
+ Drinks: [Drink{name='coffee', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='beagel', description='other snack', cost=1.5}] 
+ Merch: [Merchandise{nameOfMerch=mug, size=medium, unitPrice=3.35, quantity=2, cost=6.7}] 
+ Payment Method: null AmountPaid=11.449
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-15 04:54:03-PM L  
+ Merch: [Merchandise{nameOfMerch=cup, size=large, unitPrice=4.35, quantity=1, cost=4.35}] 
+ Payment Method: null AmountPaid=4.6545
+----------------------------------------------
+
+On 2022-04-15 04:55:51-PM, the FIU Starbucks store has sold $16.10
+
+----------------------------------------------
+2022-04-15 05:09:50-PM J  
+ Merch: [Merchandise{nameOfMerch=mug, size=small, unitPrice=2.35, quantity=1, cost=2.35}, Merchandise{nameOfMerch=cup top, size=small, unitPrice=2.35, quantity=1, cost=2.35}] 
+ Payment Method: null AmountPaid=5.029
+----------------------------------------------
+
+On 2022-04-15 05:11:11-PM, the FIU Starbucks store has sold $05.03
+
+----------------------------------------------
+2022-04-15 05:22:33-PM J  
+ Merch: [Merchandise{nameOfMerch=J, size=small, unitPrice=2.35, quantity=5, cost=11.75}] 
+ Payment Method: null AmountPaid=12.5725
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-15 05:26:24-PM J  
+ Merch: [Merchandise{nameOfMerch=Mug, size=, unitPrice=1.35, quantity=1, cost=1.35}] 
+ Payment Method: null AmountPaid=1.4445000000000001
+----------------------------------------------
+
+On 2022-04-15 05:27:22-PM, the FIU Starbucks store has sold $14.02
+
+----------------------------------------------
+2022-04-15 06:00:42-PM J  
+ Merch: [Merchandise{nameOfMerch=cup, size=large, unitPrice=4.35, quantity=2, cost=8.7}] 
+ Payment Method: null AmountPaid=9.309
+----------------------------------------------
+
+On 2022-04-15 06:01:13-PM, the FIU Starbucks store has sold $09.31
+
+----------------------------------------------
+2022-04-18 10:24:00-AM J  
+ Drinks: [Drink{name='coffee', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='apple', description='fruit snack', cost=2.5}] 
+ Merch: [Merchandise{nameOfMerch=Mug, size=small, unitPrice=2.35, quantity=2, cost=4.7}] 
+ Payment Method: null AmountPaid=10.379
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-18 10:26:18-AM L  
+ Merch: [Merchandise{nameOfMerch=Cup, size=medium, unitPrice=3.35, quantity=2, cost=6.7}] 
+ Payment Method: null AmountPaid=7.1690000000000005
+----------------------------------------------
+
+On 2022-04-18 10:26:45-AM, the FIU Starbucks store has sold $17.55
+
+----------------------------------------------
+2022-04-18 10:33:34-AM J  
+ Merch: [Merchandise{nameOfMerch=mug, size=small, unitPrice=2.35, quantity=1, cost=2.35}] 
+ Payment Method: Cash AmountPaid=2.5145
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-18 10:34:20-AM J  
+ Drinks: [Drink{name='Coffee', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='apple', description='fruit snack', cost=2.5}] 
+ Payment Method: Cash AmountPaid=5.35
+----------------------------------------------
+
+On 2022-04-18 10:35:17-AM, the FIU Starbucks store has sold $07.86
+
+----------------------------------------------
+2022-04-18 10:55:28-AM J  
+ Drinks: [Drink{name='Coffee', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Payment Method: Cash AmountPaid=2.675
+----------------------------------------------
+
+On 2022-04-18 10:55:56-AM, the FIU Starbucks store has sold $02.67
+
+----------------------------------------------
+2022-04-18 11:35:55-AM J  
+ Merch: [Merchandise{nameOfMerch=coffee mug, size=small, unitPrice=3.5, quantity=2, cost=7.0}, Merchandise{nameOfMerch=coffee tops, size=Small, unitPrice=1.35, quantity=1, cost=1.35}] 
+ Payment Method: Cash AmountPaid=8.9345
+----------------------------------------------
+
+On 2022-04-18 11:37:21-AM, the FIU Starbucks store has sold $08.93
+
+----------------------------------------------
+2022-04-18 11:41:37-AM J  
+ Merch: [Merchandise{nameOfMerch=coffee mug, size=large, unitPrice=5.5, quantity=1, cost=5.5}, Merchandise{nameOfMerch=coffee cup, size=large, unitPrice=4.35, quantity=1, cost=4.35}] 
+ Payment Method: Credit Card
+ Credit Card: Chase Credit Card Number: 222 AmountPaid=10.5395
+----------------------------------------------
+
+On 2022-04-18 11:42:28-AM, the FIU Starbucks store has sold $10.54
+
+----------------------------------------------
+2022-04-18 11:42:42-AM J  
+ Drinks: [Drink{name='coffee', size='medium', ounces=12.5, addedCream=false, addedFlavor='null', cost=3.75}] 
+ Snacks: [Snack{name='apple', description='fruit snack', cost=2.5}] 
+ Merch: [Merchandise{nameOfMerch=coffee mug, size=medium, unitPrice=4.5, quantity=2, cost=9.0}] 
+ Payment Method: Credit Card
+ Credit Card: Chase Credit Card Number: 222 AmountPaid=16.3175
+----------------------------------------------
+
+
+----------------------------------------------
+2022-04-18 11:43:37-AM POP  
+ Drinks: [Drink{name='water', size='small', ounces=8.0, addedCream=false, addedFlavor='null', cost=2.5}] 
+ Snacks: [Snack{name='pretzel', description='other snack', cost=1.5}, Snack{name='falcon', description='other snack', cost=1.5}] 
+ Merch: [Merchandise{nameOfMerch=coffee cup, size=medium, unitPrice=3.35, quantity=2, cost=6.7}] 
+ Payment Method: Cash AmountPaid=13.053999999999998
+----------------------------------------------
+
+On 2022-04-18 11:44:33-AM, the FIU Starbucks store has sold $29.37
